@@ -1,0 +1,175 @@
+div.background {
+    background-color: rgb(252, 251, 247);
+    margin-top: -2vh;
+}
+
+h1.title {
+    color: rgb(224, 176, 0);
+    text-align: center;
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 8vw; 
+}
+
+div.image1 {
+    display: flex;
+    justify-content: center;
+}
+
+img.sunflower {
+    max-height: 25vw;
+    border-radius: 50%;
+    border-width: 10px;
+    border-color: rgb(9, 2, 107);
+    border-style: double;
+    margin-top: -5vh;
+}
+
+div.image2 {
+    display: flex;
+    justify-content: center;   
+}
+
+img.bluepattern {
+    max-width: 50vw;
+    
+}
+
+p.meetzoe {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 3vw;
+    text-align: center;
+    color: rgb(224, 176, 0);   
+}
+
+p.subhead {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 3vw;
+    padding-left: 6vw;
+    color: rgb(224, 176, 0);    
+}
+
+div.image3container {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgb(252, 249, 253);
+    padding-bottom: 30px;
+}
+
+img.image3 {
+    max-height: 25vw;
+    border-radius: 10px;
+    border-color: rgb(24, 19, 90);
+    border-style: solid;
+    border-width: 5px;
+}
+
+div.factsrow {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+}
+
+div.bluetile {
+    display: flex;
+    justify-content: center;   
+}
+
+img.bluetile {
+    max-width: 16.6vw;   
+}
+
+div.container {
+    display: flex;
+    justify-content: center;    
+}
+
+div.table {
+    background-color: rgb(24, 19, 90);
+    padding: 15px 15px 15px 15px;
+    width: fit-content;
+    border-radius: 10%;
+}
+
+div.table2 {
+    background-color: rgb(224, 176, 0);
+    padding: 15px 15px 15px 15px;
+    width: fit-content;
+    border-radius: 10%;
+}
+
+tr.heading {
+    background-color: rgb(24, 19, 90);
+    text-align: center;
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20pt;
+    color: white;
+    padding: 10px;    
+}
+
+tr.body {
+    background-color: rgb(255, 255, 255);
+    text-align: left;
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+    font-size: 12pt;
+}
+
+tr.heading2 {
+    background-color: rgb(224, 176, 0);
+    text-align: center;
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20pt;
+    color: white;
+    padding: 10px   
+}
+
+div.projectscontainer {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+img.projects {
+    max-height: 50vh;
+    box-shadow: 10px 10px 10px rgb(138, 138, 138);
+    opacity: 50%;
+}
+
+img.projects:hover {
+    transform: scale(115%);
+    opacity: 100%;
+}
+
+.button {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 3vw;
+    text-align: center;
+    color:  white;
+    background-color: rgb(224, 176, 0);
+    margin: 15px;
+}
+
+.button:hover {
+    background-color: rgb(24, 19, 90);
+}
+
+.list {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 2vw;
+    color: rgb(24, 19, 90);    
+}
